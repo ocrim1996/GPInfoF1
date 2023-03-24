@@ -13,7 +13,7 @@
 ## Commands
 - **/help** --> Show help message.
 - **/nextf1gp** --> Show Next GP Timetable.
-- **/next5f1gp** --> Show the timetables for the Next 5 GP.
+- **/next5f1gp** --> Show the timetables for the Next 5 GPs.
 - **/f1schedule** --> Show all F1 calendar.
 
 ## Prerequisites
