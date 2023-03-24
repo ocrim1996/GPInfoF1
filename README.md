@@ -5,7 +5,7 @@
 [![Fly.io](https://img.shields.io/badge/Fly.-io-orange)](https://fly.io/)
 [![emoji-country-flag](https://img.shields.io/badge/EmojiCountryFlag-1.3.2-green)](https://pypi.org/project/emoji-country-flag/)
 
-**GPInfoF1** is a Telegram bot that displays information about F1 schedules and next GP info.
+**GPInfoF1** is a Telegram bot that displays information about F1 schedules and next GP info. Hosted on [Fly.io](https://fly.io/).
 
 ## Screenshots
 ![gpinfof1_screenshot](https://user-images.githubusercontent.com/30499621/227471085-ee87a62e-746e-4dfc-8e3f-f8cc10712062.png)
