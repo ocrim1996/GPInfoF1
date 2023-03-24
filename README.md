@@ -3,7 +3,7 @@
 [![Telegram Bot](https://img.shields.io/badge/Teelgram-Bot-blue)](https://python-telegram-bot.org/)
 [![Docker](https://img.shields.io/badge/Docker-blue)](https://www.docker.com/)
 [![Fly.io](https://img.shields.io/badge/Fly.-io-orange)](https://fly.io/)
-[![emoji-country-flag](https://img.shields.io/badge/emoji-country-flag-1.3.2-green)](https://fly.io/)
+[![emoji-country-flag](https://img.shields.io/badge/EmojiCountryFlag-1.3.2-green)](https://pypi.org/project/emoji-country-flag/)
 
 **GPInfoF1** is a Telegram bot that displays information about F1 schedules and next GP info.
 
