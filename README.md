@@ -12,8 +12,8 @@
 ## Commands
 - **/help** --> Show help message.
 - **/nextf1gp** --> Show Next GP Timetable.
-- **/next5g1gp** --> Show Five Next GP Timetable.
-- **/f1schedule** --> Show all F1 schedule.
+- **/next5g1gp** --> Show the timetables for the Next 5 GP.
+- **/f1schedule** --> Show all F1 calendar.
 
 ## Prerequisites
 - Python 3.7+
