@@ -28,7 +28,7 @@
 ### Configuration
 Create a file `token.env` in the root directory and write inside:
 ```sh
-TOKEN=<your-bot-telegram-token>
+TOKEN=<your-telegram-bot-token>
 ```
 
 ### Deploy
