@@ -3,6 +3,7 @@
 [![Telegram Bot](https://img.shields.io/badge/Teelgram-Bot-blue)](https://python-telegram-bot.org/)
 [![Docker](https://img.shields.io/badge/Docker-blue)](https://www.docker.com/)
 [![Fly.io](https://img.shields.io/badge/Fly.-io-orange)](https://fly.io/)
+[![emoji-country-flag](https://img.shields.io/badge/emoji-country-flag1.3.2-green)](https://fly.io/)
 
 **GPInfoF1** is a Telegram bot that displays information about F1 schedules and next GP info.
 
@@ -20,6 +21,7 @@
 - A [Telegram bot](https://core.telegram.org/bots#6-botfather) and its token (see [tutorial](https://core.telegram.org/bots/tutorial#obtain-your-bot-token))
 - A [Fly.io](https://fly.io/) account to deploy Telegram Bot (see [tutorial](https://bakanim.xyz/posts/deploy-telegram-bot-to-fly-io/)).
 - [python-telegram-bot](https://python-telegram-bot.org)
+- [emoji-country-flag](https://pypi.org/project/emoji-country-flag/)
 
 ## Getting started
 
