@@ -19,6 +19,7 @@
 - Python 3.7+
 - A [Telegram bot](https://core.telegram.org/bots#6-botfather) and its token (see [tutorial](https://core.telegram.org/bots/tutorial#obtain-your-bot-token))
 - A [Fly.io](https://fly.io/) account to deploy Telegram Bot (see [tutorial](https://bakanim.xyz/posts/deploy-telegram-bot-to-fly-io/)).
+- [python-telegram-bot](https://python-telegram-bot.org)
 
 ## Getting started
 
