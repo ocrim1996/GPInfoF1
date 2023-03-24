@@ -27,9 +27,9 @@
 
 ### Configuration
 Create a file `token.env` in the root directory and write inside:
-| Parameter    | Description                                                                                                                                                   |
-|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `TOKEN`      | Your Telegram bot's token, obtained using [BotFather](http://t.me/botfather) (see [tutorial](https://core.telegram.org/bots/tutorial#obtain-your-bot-token))  |
+```sh
+TOKEN=<your-bot-telegram-token>
+```
 
 ### Deploy
 To deploy the Telegram Bot to **Fly.io** see this [tutorial](https://bakanim.xyz/posts/deploy-telegram-bot-to-fly-io/).
